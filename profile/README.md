@@ -1,12 +1,16 @@
-## Hi there 👋
+![ALT Logo_Lime Green](https://github.com/user-attachments/assets/e757c723-4342-4d87-8701-a4eb293bbeb5)
 
-<!--
+---
+We are an organization dedicated to contributing to multiple **blockchain ecosystems**, providing **tools, dApps, and games**—all through **open-source** projects. 🚀  
 
-**Here are some ideas to get you started:**
+## 🔨 Our Projects  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🏗️ **Starkiro** – A collection of **educational scripts** built using **Cairo**, designed specifically for the **Starknet** ecosystem.  
+- 🔄 **SafeSwap** – A **decentralized marketplace** for buying and selling products with **escrowed payments**, powered by **Stellar** and integrated with the **Trustless Work API**.  
+- 🎲 **Starkners** – An **on-chain** implementation of the **Checkers game** on **Starknet**, built using **Dojo Engine** and **Cartridge technology**.  
+
+## 🏆 Achievements  
+
+- 💰 **Open-Source Grants Program** from **Starknet** and **Stellar**, supporting and incentivizing contributions through **rewards managed via OnlyDust**.  
+
+Join us in building the **future of decentralized applications!** 🚀
