@@ -1,6 +1,10 @@
+
+---
+
 ![ALT Logo_Lime Green](https://github.com/user-attachments/assets/e757c723-4342-4d87-8701-a4eb293bbeb5)
 
 ---
+
 We are an organization dedicated to contributing to multiple **blockchain ecosystems**, providing **tools, dApps, and games**—all through **open-source** projects. 🚀  
 
 ## 🔨 Our Projects  
@@ -14,3 +18,6 @@ We are an organization dedicated to contributing to multiple **blockchain ecosys
 - 💰 **Open-Source Grants Program** from **Starknet** and **Stellar**, supporting and incentivizing contributions through **rewards managed via OnlyDust**.  
 
 Join us in building the **future of decentralized applications!** 🚀
+
+## 👤 Founder
+<table> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/c9f33cbc-0995-496e-a171-3a4aefae5f76" width="150px;" alt="Founder: Daniel Calderón Díaz"/> <br /> <strong>Daniel Calderon Diaz</strong> <br /> Founder & Lead Developer <br /> <a href="https://t.me/danielcdz" target="_blank">Telegram</a> | <a href="https://twitter.com/danielcdz" target="_blank">X</a> | <a href="https://www.linkedin.com/in/daniel-calderon-diaz-50928022b" target="_blank">LinkedIn</a> </td> </tr> </table>
