@@ -12,7 +12,7 @@ We are an organization dedicated to contributing to multiple **blockchain ecosys
 - 🏗️ **Starkiro** – A collection of **educational scripts** built using **Cairo**, designed specifically for the **Starknet** ecosystem.  
 - 🔄 **SafeSwap** – A **decentralized marketplace** for buying and selling products with **escrowed payments**, powered by **Stellar** and integrated with the **Trustless Work API**.  
 - 🎲 **Starkners** – An **on-chain** implementation of the **Checkers game** on **Starknet**, built using **Dojo Engine** and **Cartridge technology**.  
-- 🥋 **Tatami** - A no-code web tool for improve and accelerate the on-chain gaming development process, built using **Dojo Engine**.
+- 🥋 **Tatami** - A no-code web tool for improving and accelerating the on-chain gaming development process, built using **Dojo Engine**.
 
 ## 🏆 Achievements  
 
