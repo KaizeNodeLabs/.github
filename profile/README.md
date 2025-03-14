@@ -19,7 +19,7 @@ We are an organization dedicated to contributing to multiple **blockchain ecosys
 - 💰 **Open-Source Grants Program** from **Starknet** and **Stellar**, supporting and incentivizing contributions through **rewards managed via OnlyDust**.  
 
 
-## 👤 Founder
+## 👤 KaizeNodeLabs Members
 <table align="center"> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/c9f33cbc-0995-496e-a171-3a4aefae5f76" width="150px;" alt="Founder: Daniel Calderón Díaz"/> <br /> <strong>Daniel Calderon Diaz</strong> <br /> Founder & Lead Developer <br /> <a href="https://t.me/danielcdz" target="_blank">Telegram</a> | <a href="https://twitter.com/danielcdz" target="_blank">X</a> | <a href="https://www.linkedin.com/in/daniel-calderon-diaz-50928022b" target="_blank">LinkedIn</a> </td>
   
 <td align="center"> <img src="https://github.com/user-attachments/assets/f788df72-849b-4029-ad5c-14e65b43589f" width="150px;" alt="Software Engineer: Derian Rodríguez Durán"/> <br /> <strong>Derian Rodríguez Durán</strong> <br /> Software Engineer <br /> <a href="https://t.me/deriandev" target="_blank">Telegram</a> | <a href="https://x.com/deriandev" target="_blank">X</a> | <a href="https://www.linkedin.com/in/derian-rodriguez22/" target="_blank">LinkedIn</a> </td>
